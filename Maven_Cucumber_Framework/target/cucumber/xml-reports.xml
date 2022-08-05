@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="14.234">
+    <testcase classname="Search and Place the order of Products" name="Search Experience for product search in both home and offers page." time="13.935">
+        <system-out>
+            <![CDATA[Given User is on Greencart landing page.....................................passed
+When when user search with a short name like "tom"..........................passed
+Then same result should be displayed when user search with "tom" on offers page.passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
