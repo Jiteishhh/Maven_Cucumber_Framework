@@ -35,6 +35,7 @@ public class landingPage {
     	
     	util.productName_HomePage = lP.getProductNameText().split("-")[0].trim();
     	System.out.println(util.productName_HomePage);
+    	System.out.println("abc");
        
     }
 
